@@ -560,6 +560,20 @@ body, html {
     margin: 6px;
     flex-grow: 1;
 }
+
+.white {
+    background-color: #e5e5e5;
+
+}
+
+.orange {
+    background-color: #F58500;
+}
+
+.red {
+    background-color: #FF6F6F;
+}
+
 .batteryHead {
     border: 2px black solid;
     border-bottom: 2px white solid;
@@ -586,6 +600,7 @@ body, html {
 .dueToday {
     text-align: center;
     /*display: unset;*/
+    padding-bottom: 20px;
 }
 
 .allBattery {
